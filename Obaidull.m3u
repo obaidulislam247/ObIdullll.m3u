@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF
+https://tv.durbinlive.com/api/toffee/playlist.php
+#EXTINF
+https://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
